@@ -227,12 +227,9 @@ open_to:
 
 <div align="center">
 
-<a href="https://github.com/Saksham21s">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saksham21s&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=e2ff00&icon_color=e2ff00&text_color=ffffff&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/Saksham21s">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham21s&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=e2ff00&text_color=ffffff&langs_count=8" />
-</a>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saksham21s&theme=github_dark" />
+&nbsp;
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saksham21s&theme=github_dark" />
 
 </div>
 
@@ -240,12 +237,17 @@ open_to:
 
 <div align="center">
 
-<a href="https://github.com/Saksham21s">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham21s&theme=dark&hide_border=true&background=0D0D0D&ring=E2FF00&fire=E2FF00&currStreakLabel=E2FF00&sideLabels=FFFFFF&dates=888888&sideNums=FFFFFF&currStreakNum=E2FF00" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham21s&theme=dark&hide_border=true&background=0D0D0D&ring=E2FF00&fire=E2FF00&currStreakLabel=E2FF00&sideLabels=FFFFFF&dates=888888&sideNums=FFFFFF&currStreakNum=E2FF00" />
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham21s&bg_color=0d0d0d&color=e2ff00&line=e2ff00&point=ffffff&area=true&hide_border=true" />
+
+</div>
 <br/>
 
 ---
