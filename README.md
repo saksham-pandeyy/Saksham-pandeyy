@@ -1,108 +1,281 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e2ff00&height=120&section=header&fontColor=000000" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&section=header"/>
 
 </div>
 
 <div align="center">
 
-# Saksham Pandey
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&pause=1000&color=E2FF00&background=00000000&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;AI+Systems+%7C+LangGraph+%7C+RAG;Building+production-grade+products)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-e2ff00?style=for-the-badge&logo=vercel&logoColor=000000)](https://yourportfolio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-4ade80?style=flat-square&labelColor=111113)
-
-</div>
-
----
-
-## `$ whoami`
-
-I'm a Full-Stack Developer building **scalable, production-ready systems** — from reactive frontends to AI-native backend architectures.
-
-My current work is at the intersection of **LLM orchestration**, **multi-agent workflows**, and **Retrieval-Augmented Generation** — building systems where AI does the heavy lifting without sacrificing reliability.
-
-> I don't just integrate APIs. I architect systems that compose, scale, and stay maintainable.
-
----
-
-## `$ cat stack.json`
-
-```jsonc
-{
-  "frontend":  ["React", "Vue 3", "TypeScript", "Tailwind CSS"],
-  "mobile":    ["React Native", "Expo"],
-  "backend":   ["Node.js", "Express.js"],
-  "databases": ["MongoDB", "MySQL"],
-  "ai_ml":     ["LangGraph", "RAG", "LLM Integrations", "Vector Search"]
-}
 ```
-
----
-
-## `$ cat philosophy.txt`
-
+ ░██████╗░█████╗░██╗░░██╗░██████╗██╗░░██╗░█████╗░███╗░░░███╗
+ ██╔════╝██╔══██╗██║░██╔╝██╔════╝██║░░██║██╔══██╗████╗░████║
+ ╚█████╗░███████║█████═╝░╚█████╗░███████║███████║██╔████╔██║
+ ░╚═══██╗██╔══██║██╔═██╗░░╚═══██╗██╔══██║██╔══██║██║╚██╔╝██║
+ ██████╔╝██║░░██║██║░╚██╗██████╔╝██║░░██║██║░░██║██║░╚═╝░██║
+ ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░╚═╝
 ```
-→ clarity over cleverness — readable code outlives clever code
-→ fail loudly in dev, gracefully in prod
-→ abstractions should have obvious deletion points
-→ if it can't be tested, it shouldn't ship
-→ documentation is part of the deliverable, not an afterthought
-→ performance is a feature — measure before optimising
-```
-
----
-
-## `$ cat currently_building.log`
-
-```bash
-[ACTIVE]   → RAG pipeline — hybrid dense + sparse retrieval (BM25 + embeddings)
-[ACTIVE]   → LangGraph agent with persistent memory + tool orchestration
-[LEARNING] → System design patterns for distributed AI workloads
-[READING]  → Designing Data-Intensive Applications — Kleppmann
-```
-
----
-
-## `$ git log --stats`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=e2ff00&icon_color=e2ff00"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=e2ff00"/>
 
 </div>
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&ring=e2ff00&fire=e2ff00&currStreakLabel=e2ff00)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=E2FF00&center=true&vCenter=true&width=800&lines=Frontend+Engineer+%E2%80%94+React+%26+TypeScript;React+Native+%7C+Cross-Platform+Mobile;Offline-First+Architecture+%26+Sync+Systems;AI-Powered+Product+Experiences;Scalable+%26+Maintainable+Codebases" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E2FF00?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/saksham-pandey21)
+[![Email](https://img.shields.io/badge/Email-E2FF00?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:pandeysaksham21s@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-E2FF00?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Saksham21s)
+[![Profile Views](https://komarev.com/ghpvc/?username=Saksham21s&color=e2ff00&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Saksham21s)
 
 </div>
 
 ---
 
-## `$ cat open_to.txt`
+<br/>
 
-```
-→ Full-time roles — remote-first, open to relocation
-→ Contracts in AI, SaaS, or developer tooling
-→ Open-source collab on AI infra or dev tools
-→ Technical conversations — systems, architecture, LLMs
-```
+## Who I Am
+
+<img align="right" width="360" src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham21s&bg_color=0d0d0d&color=e2ff00&line=e2ff00&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+
+I'm a **Frontend Engineer** focused on building production-grade web and mobile applications that are fast, reliable, and maintainable at scale.
+
+My work sits at the intersection of clean architecture, developer experience, and product quality. I care about the details — from how state flows through an application to how a user perceives performance.
+
+**What drives me:**
+
+- Designing frontend systems that teams can grow with
+- Building offline-first mobile apps that work anywhere
+- Optimizing real performance, not just metrics
+- Integrating AI meaningfully into product workflows
+
+<br/><br/><br/>
 
 ---
 
+<br/>
+
+## Technical Stack
+
 <div align="center">
 
-**Let's build something worth shipping.**
+### Core
 
-[`yourportfolio.dev`](https://yourportfolio.dev) · [`LinkedIn`](https://linkedin.com) · `your@email.com`
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e2ff00&height=80&section=footer" width="100%"/>
+### Ecosystem
+
+<img src="https://skillicons.dev/icons?i=redux,nodejs,git,github,vscode,figma,postman" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Layer | Technologies |
+|---|---|
+| **Web** | React · Next.js · TypeScript · Tailwind CSS |
+| **Mobile** | React Native · Android · iOS · Expo |
+| **State** | Zustand · Redux Toolkit · TanStack Query |
+| **Data / Offline** | WatermelonDB · IndexedDB · LocalStorage |
+| **API** | REST · Auth Flows · Token Management · Pagination |
+| **AI** | OpenAI SDK · Tool Calling · Structured Outputs · LangGraph |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Web Engineering
+
+Building robust, scalable web applications with React and Next.js. I focus on component architecture, reusable design systems, and frontend performance that ships reliably in production.
+
+**Specialties:**
+- SaaS dashboards and admin platforms
+- Internal tooling and data management systems
+- Design system integration and component libraries
+- Frontend performance optimization
+
+</td>
+<td width="50%" valign="top">
+
+### Mobile Engineering
+
+Cross-platform mobile development with React Native — from architecture to deployment. Specialized in apps that remain fast and functional even without network connectivity.
+
+**Specialties:**
+- Offline-first apps with background sync
+- Complex navigation and state architecture
+- Push notifications and device integrations
+- Android and iOS production releases
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### State and Data Architecture
+
+Designing scalable data flows that remain predictable as applications grow. I work across client state, server state, and local persistence layers — ensuring consistency across all of them.
+
+**Specialties:**
+- Zustand and Redux Toolkit for client state
+- TanStack Query for server state and caching
+- Optimistic updates and background synchronization
+- Offline data with WatermelonDB and IndexedDB
+
+</td>
+<td width="50%" valign="top">
+
+### AI Integrations
+
+Building practical AI-powered features — not demos. I integrate language models into real product workflows using structured outputs, tool calling, and context-aware prompt systems.
+
+**Experience:**
+- OpenAI API with tool calling and structured outputs
+- AI-assisted user workflows in production apps
+- Context management for multi-turn interactions
+- Exploring: LangGraph · Agent workflows · Multi-agent systems
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## Engineering Philosophy
+
+```mermaid
+mindmap
+  root((Engineering
+Mindset))
+    Architecture
+      Clarity over cleverness
+      Design for maintainability
+      Systems over features
+      Scale from day one
+    Execution
+      Measure before optimizing
+      Ship reliable software
+      No shortcuts in data layer
+      Test what matters
+    Craft
+      Docs are part of the work
+      Reusable over repeated
+      Code for the next dev
+      Long-term thinking
+    Product
+      Performance is a feature
+      UX lives in the details
+      AI with real purpose
+      Build what users need
+```
+
+<br/>
+
+---
+
+<br/>
+
+## Currently
+
+```yaml
+status: "Active — building and shipping"
+
+working_on:
+  - Scalable React Native architecture patterns
+  - Offline-first sync systems with conflict resolution
+  - Reusable component systems for cross-team use
+  - AI-assisted product workflows
+
+learning:
+  - LangGraph and agentic workflow design
+  - Advanced system design for frontend at scale
+  - Modern AI infrastructure and application patterns
+
+open_to:
+  - Frontend Engineer · React Developer · React Native Developer
+  - Product Engineer · Software Engineer
+  - Remote · Contract · Full-Time
+```
+
+<br/>
+
+---
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Saksham21s">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saksham21s&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=e2ff00&icon_color=e2ff00&text_color=ffffff&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/Saksham21s">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham21s&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=e2ff00&text_color=ffffff&langs_count=8" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Saksham21s">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham21s&theme=dark&hide_border=true&background=0D0D0D&ring=E2FF00&fire=E2FF00&currStreakLabel=E2FF00&sideLabels=FFFFFF&dates=888888&sideNums=FFFFFF&currStreakNum=E2FF00" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+I'm always open to interesting projects, technical conversations, and new opportunities.
+
+<br/>
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-E2FF00?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/saksham-pandey21)
+&nbsp;
+[![Send an Email](https://img.shields.io/badge/Send_an_Email-E2FF00?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:pandeysaksham21s@gmail.com)
+&nbsp;
+[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-E2FF00?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Saksham21s)
+
+<br/>
+
+> *"Good software is built twice — first in architecture, then in code."*
+
+<br/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=0,2,2,5,30&section=footer"/>
 
 </div>
