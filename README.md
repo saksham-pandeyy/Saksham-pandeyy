@@ -29,8 +29,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E2FF00?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/saksham-pandey21)
 [![Email](https://img.shields.io/badge/Email-E2FF00?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:pandeysaksham21s@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-E2FF00?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Saksham21s)
-[![Profile Views](https://komarev.com/ghpvc/?username=Saksham21s&color=e2ff00&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Saksham21s)
+[![GitHub](https://img.shields.io/badge/GitHub-E2FF00?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/saksham-pandeyy)
+[![Profile Views](https://komarev.com/ghpvc/?username=Saksham21s&color=e2ff00&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/saksham-pandeyy)
 
 </div>
 
@@ -40,7 +40,7 @@
 
 ## Who I Am
 
-<img align="right" width="360" src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham21s&bg_color=0d0d0d&color=e2ff00&line=e2ff00&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+<img align="right" width="360" src="https://github-readme-activity-graph.vercel.app/graph?username=saksham-pandeyy&bg_color=0d0d0d&color=e2ff00&line=e2ff00&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 
 I'm a **Frontend Engineer** focused on building production-grade web and mobile applications that are fast, reliable, and maintainable at scale.
 
@@ -227,9 +227,9 @@ open_to:
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saksham21s&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saksham-pandeyy&theme=github_dark" />
 &nbsp;
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saksham21s&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saksham-pandeyy&theme=github_dark" />
 
 </div>
 
@@ -237,7 +237,7 @@ open_to:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham21s&theme=dark&hide_border=true&background=0D0D0D&ring=E2FF00&fire=E2FF00&currStreakLabel=E2FF00&sideLabels=FFFFFF&dates=888888&sideNums=FFFFFF&currStreakNum=E2FF00" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-pandeyy&theme=dark&hide_border=true&background=0D0D0D&ring=E2FF00&fire=E2FF00&currStreakLabel=E2FF00&sideLabels=FFFFFF&dates=888888&sideNums=FFFFFF&currStreakNum=E2FF00" />
 
 </div>
 
@@ -245,7 +245,7 @@ open_to:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham21s&bg_color=0d0d0d&color=e2ff00&line=e2ff00&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham-pandeyy&bg_color=0d0d0d&color=e2ff00&line=e2ff00&point=ffffff&area=true&hide_border=true" />
 
 </div>
 <br/>
@@ -266,7 +266,7 @@ I'm always open to interesting projects, technical conversations, and new opport
 &nbsp;
 [![Send an Email](https://img.shields.io/badge/Send_an_Email-E2FF00?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:pandeysaksham21s@gmail.com)
 &nbsp;
-[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-E2FF00?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Saksham21s)
+[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-E2FF00?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/saksham-pandeyy)
 
 <br/>
 
