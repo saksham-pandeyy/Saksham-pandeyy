@@ -179,16 +179,16 @@ Focused on shipping clean, well-architected code designed for production reliabi
 ### Engineering Principles
 
 ```mermaid
-graph LR
-    classDef offline fill:#0A2540,stroke:#00D2FF,stroke-width:2px,color:#00D2FF;
+graph TD
+    classDef offline fill:#0A2540,stroke:#00D2FF,stroke-width:2px,color:#61DAFB;
     classDef ai fill:#1A102F,stroke:#A855F7,stroke-width:2px,color:#C084FC;
     classDef perf fill:#111B27,stroke:#2EA043,stroke-width:2px,color:#3FB950;
     classDef clean fill:#1F1610,stroke:#F59E0B,stroke-width:2px,color:#FBBF24;
 
-    P1["Offline-First Architecture<br/>Local data persistence & managed async sync"]:::offline
-    P2["Deterministic AI Workflows<br/>Structured tool-calling & Zod schema validation"]:::ai
-    P3["Profile-Driven Performance<br/>Optimizing load times & 60 FPS cross-platform UX"]:::perf
-    P4["Clean & Explicit Interfaces<br/>Flat promise chains & strict TypeScript contracts"]:::clean
+    A["Offline-First Architecture<br/>Local SQLite persistence & async sync queues"]:::offline --> B["Deterministic AI Workflows<br/>Structured tool calling & Zod schema validation"]:::ai
+    B --> C["Profile-Driven Performance<br/>60 FPS cross-platform UX & load optimization"]:::perf
+    C --> D["Explicit Typed Contracts<br/>Flat promise chains & strict TypeScript interfaces"]:::clean
+    D --> A
 ```
 
 <br/>
